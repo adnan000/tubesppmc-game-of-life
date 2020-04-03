@@ -3,7 +3,7 @@ Code Repository for Conway's Game of Life by Kelompok 3 Romb. A Tugas Besar PPMC
 
 Nama Kelompok :
 1. Andhika Rahadian (13218030)
-2. (isi nama kamu)
+2. Muhammad Adnan (13219019)
 3. (isi nama kamu)
 4. (isi nama kamu)
 
